@@ -6,7 +6,6 @@ import api from '../../services/api';
 import { Feather } from '@expo/vector-icons';
 import logoImg from '../../assets/logo.png';
 import styles from './styles';
-import { apisAreAvailable } from 'expo';
 
 function Incidents() {
 
